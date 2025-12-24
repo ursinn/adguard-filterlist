@@ -1,4 +1,4 @@
-# Found in Phishing URL Blocklist (PhishTank and OpenPhish) 
-@@||tracking.postlogistics.ch^ # Post CH AG, Consignment Tracking
+# Found in Phishing URL Blocklist (PhishTank and OpenPhish)
+@@||tracking.postlogistics.ch^
 # Found in 1Hosts (Lite)
-@@||mfgroup.ch^$important # MF Group AG
+@@||mfgroup.ch^
